@@ -16,4 +16,6 @@ class Solution {
         return count;
     }
 }
+// TC - O(N)
+// SC - O(1)
 
